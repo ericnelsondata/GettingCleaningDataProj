@@ -1,3 +1,4 @@
+
 # GettingCleaningDataProj
 ==================================================================
 
@@ -16,6 +17,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2.0 dataset includes the additional file:
 
 'aveTable': a tidy dataset containing the average of 66 feature measures from the combined training and test sets.  These 66 measures consist of the the average of mean and std deviation feature measurements extracted from the original data set.
+
+Code_book2.0.txt: a text file containing data definitions for aveTable
 
 ==================================================================
 
